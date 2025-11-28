@@ -20,8 +20,8 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 ```
 /*
 Program to implement N-Queen problem using backtracking.
-Developed by: Anto Jessi A
-Register Number: 212222040009
+Developed by: Mohamed Munthasir Y
+Register Number: 212222220025
 */
 ```
 ```
